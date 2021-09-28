@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="New Game"
+        android:id="@+id/guessNewGame"
+        app:showAsAction="never"/>
+
+    <item android:title="Numbers Game"
+        android:id="@+id/guessOtherGame"
+        app:showAsAction="never"/>
+
+    <item android:title="Main Menu"
+        android:id="@+id/guessMainMenu"
+        app:showAsAction="never"/>
+</menu>
